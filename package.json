@@ -1,0 +1,21 @@
+{
+  "name": "54-proyecto-introduccionnode-agenciadeviajes",
+  "version": "1.0.0",
+  "description": "Proyecto inicial NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Mizandhre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "pug": "^3.0.2",
+    "sequelize": "^6.25.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
